@@ -1,6 +1,6 @@
 # Brainstation
 
-This is a project during my bootcamp at Brainstation. The premise of the project was as followed:
+This is a project from during my bootcamp at Brainstation. The premise of the project was as followed:
 
 You are a Data Scientist with the marketing team at a banking institution. The Marketing Manager has been running phone based marketing campaigns to market the new product which is a bank term deposit. The manager has historical data from marketing campaigns in the past for a similar product. Historical data is available in full.csv dataset. Often, more than one contact to the same client was required, in order to assess if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
  
